@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-# Avoid README & Style Guide from being added to project
-*.md
+# Avoid adding README-info file
+README-info.md
