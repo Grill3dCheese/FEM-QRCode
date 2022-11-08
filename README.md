@@ -65,8 +65,8 @@ body {
 ## Author
 
 - Website - [Keith McKenna](https://www.keithmckenna.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Grill3dCheese)
-- Twitter - [@yourusername](https://www.twitter.com/keithmckenna)
+- Frontend Mentor - [@Grill3dCheese](https://www.frontendmentor.io/profile/Grill3dCheese)
+- Twitter - [@keithmckenna](https://www.twitter.com/keithmckenna)
 
 ## Acknowledgments
 
